@@ -1,0 +1,8 @@
+{
+  "name": "ocr",
+  "version": "1.0.0",
+  "description": "Standalone node project for ocr",
+  "dependencies": {
+    "tesseract.js": "^1.0.14"
+  }
+}
