@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Standalone node project for ocr",
   "dependencies": {
+    "ocr-space-api": "^1.0.1",
     "tesseract.js": "^1.0.14"
   }
 }

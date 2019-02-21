@@ -1,6 +1,8 @@
 var Tesseract = require('tesseract.js')
-var myImage = "F:/Pratiksha/Documents/Postman/image.jpg"
+var myImage = "quote.jpg"
 Tesseract.recognize(myImage)
 .then(function(result){
     console.log(result.text)
 })
+
+
